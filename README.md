@@ -3,7 +3,7 @@
 
 
 
-commitoi pushaa ja revertoi
+commitoi pushaa virhe ja revertoi
 
 
 
